@@ -1,0 +1,20 @@
+READ THIS BEFORE RUNNING THE CODES
+
+please run the the codes in the following steps, without removing the global environment
+1. Run "1. Data preprocessing, Clustering and Train Regression Model.R" to implement kmeans 		clustering, and train the regression machine.
+
+2. Run "2. Train Classification Model.R" to train the classification machine.
+
+
+3. Run "3. Final machine.R" to feed the "Current" records into the combined model 
+	as described in the report (appendix B)
+
+OR
+
+3a. Run "3a. Only classification.R" to implement only the classification 
+	model as described in the report (appendix B)
+
+
+
+4. To generate reports mentioned in Appendix D of the report,
+run "4. Appendix D.R"
